@@ -15,6 +15,7 @@ module.exports = {
     },
     `gatsby-plugin-typescript`,
     `gatsby-plugin-sitemap`,
+    `gatsby-plugin-emotion`,
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     {
